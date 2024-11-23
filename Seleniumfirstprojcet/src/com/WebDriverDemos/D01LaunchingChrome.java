@@ -17,7 +17,7 @@ public class D01LaunchingChrome {
 		
 		//If you're on the Google homepage (https://www.google.co.in/), the title could be "Google", while the current URL could be "https://www.google.co.in/"
 		//For Get title -1
-		String title= driver.getTitle();//It doesnt  have a Class name so direct call
+		String title= driver.getTitle();//It doesn't  have a Class name so direct call
 		
 		if(title.contains("Google"))
 			System.out.println("Correct");
