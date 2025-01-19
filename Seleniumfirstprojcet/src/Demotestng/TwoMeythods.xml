@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name = "My Suite">
+	<test name = "My Test">
+		<classes>
+			<class name = "Demotestng.DataDrivenTesting">
+				<methods>
+					<include name = "logintoHRM"></include>
+					<include name ="myreference"></include> <!--Two @Test     case-->  
+				</methods>
+			</class>
+		</classes>
+	</test>
+</suite>

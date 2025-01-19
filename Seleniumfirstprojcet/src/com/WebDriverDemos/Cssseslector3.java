@@ -30,7 +30,7 @@ public class Cssseslector3 {
 		
 		
 		//Double Attribute//input[type="submit"][name="Butsub"]
-		
+	
 		//Tagname +[ any attribute]
 		//input[type="submit"][class="btn btn-lg btn-block btn-primary"]//Only in Css selector we should put Complete value
 		WebElement Loginbtn=driver.findElement(By.cssSelector("input[type=\"submit\"][class=\"btn btn-lg btn-block btn-primary\"]"));

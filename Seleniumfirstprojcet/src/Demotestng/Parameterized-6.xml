@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="suite">
+	<test name="my test">
+		<parameters>
+			<parameter>name="userName" value="practice" </parameter>
+			<parameter>name="userName" value="SuperSecretPassword!" </parameter><!-- Already provided user/psw  SuperSecretPassword-->
+<!-- //Will send the values of parameters to .java file -->
+		</parameters>
+		<classes>
+			<class name="Demotestng.D1impgoogle">
+
+
+			</class>
+
+		</classes>
+
+
+
+
+
+	</test>
+
+
+
+</suite>

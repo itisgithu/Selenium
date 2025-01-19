@@ -1,0 +1,7 @@
+<suite name="My Suite">
+    <test name="User Login">
+        <classes>
+            <class name="staragileAssignment.AS02Loginpageclient" />
+        </classes>
+    </test>
+</suite>

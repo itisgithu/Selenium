@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name = "My Suite">
+	<test name = "Google Test">
+		<classes>
+			<class name = "Demotestng.D1impgoogle">
+			</class>
+		</classes>
+		<groups>
+			<run>
+				<include name ="My family"></include><!-- Groups -->
+			</run>
+		</groups>
+	</test>
+</suite>

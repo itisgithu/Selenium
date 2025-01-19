@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="My suite ">
+	<test name="My test">
+		<classes>
+			<class name="Demotestng.DataDrivenTesting">
+				<methods>
+					<include name="logintoHRM"></include>
+				</methods>
+			</class>
+			<class name="Demotestng.D1impgoogle">
+				<methods>
+					<include name="Gmail"></include>
+				</methods>
+			</class>
+		</classes>
+	</test>
+</suite>
